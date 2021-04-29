@@ -1,4 +1,3 @@
-<script>
 (function () {
     'use strict'
 
@@ -18,4 +17,3 @@
             }, false)
         })
 })()
-</script>
